@@ -1,5 +1,3 @@
-# Vityarthi-assignment
-Compilation of 34 programs
 Comprehensive Library of Number Theory & Computational Algorithms in Python
 💡 Overview of the Project
 This repository is an extensive collection of Python implementations for algorithms across Number Theory, Discrete Mathematics, and computational analysis. It provides foundational and advanced functions for tasks ranging from primality testing and factorization to sequence generation and various operations on special number types. Each script is self-contained and demonstrates its functionality, often including basic runtime and memory usage metrics.
